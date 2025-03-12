@@ -10,7 +10,7 @@ I'm a passionate software engineer with experience in full-stack development, sp
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [Deviko Kelvin](https://www.linkedin.com/in/devikokelvin/)
-- **GitHub:** [DevikoKelvin](https://github.com/DevikoKelvin)
+- **Facebook:** [Deviko Kelvin](https://www.facebook.com/dev.dkz)
 
 ## 💬 Let's Chat
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new opportunities and exciting challenges!
